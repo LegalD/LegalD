@@ -1,4 +1,4 @@
-#Uma única figura monstruosa vaga pelos corredores do infame manicômio de Zaun. Seus métodos são audaciosos, sua serra é afiada e seus pacientes estão sempre aterrorizados. Afinal, esse homem não é médico de verdade em lugar nenhum – apenas nos confins de sua própria imaginação.
+Uma única figura monstruosa vaga pelos corredores do infame manicômio de Zaun. Seus métodos são audaciosos, sua serra é afiada e seus pacientes estão sempre aterrorizados. Afinal, esse homem não é médico de verdade em lugar nenhum – apenas nos confins de sua própria imaginação.
 
 Por mais que seu nome tenha se perdido em meio ao tempo e à memória, sabe-se que Dr. Mundo já foi o executor de um dos Barões da Química mais poderosos de Zaun. Conhecido por sua simpatia desajeitada, era surpreendentemente amigável para alguém que ganhava a vida intimidando as pessoas fisicamente. Estava sempre chamando alguém por um apelido amistoso, acompanhado de um tapinha nas costas, e, na maioria das vezes, não percebia que era muito inconveniente. Não demorou muito até que ele causasse alguma inconveniência a seu próprio chefe.
 
