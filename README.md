@@ -5,3 +5,12 @@
 ## VAI PARA ONDE QUER
 
 Dr. Mundo resiste ao próximo efeito Imobilizador que o atingir, perdendo Vida e derrubando um recipiente químico nas proximidades. Dr. Mundo pode pegar o recipiente ao passar por cima dele, restaurando Vida e reduzindo o Tempo de Recarga da Habilidade. Dr. Mundo também tem Regeneração de Vida significativamente mais alta.
+
+
+![Uploading DrMundoQ.png…]()
+
+<h5>Q</h5>
+
+## SERRA INFECTADA
+
+Dr. Mundo arremessa uma serra infectada, causando dano ao primeiro inimigo atingido com base na Vida atual do alvo e causando Lentidão a ele.
