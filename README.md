@@ -1,4 +1,4 @@
-![DrMundo_P](https://github.com/LegalD/LegalD/assets/105947492/bc6f9f30-c10e-40b7-95de-a126d1bf5e8c) <h5>PASSIVA</h5>
+![DrMundo_P](https://github.com/LegalD/LegalD/assets/105947492/bc6f9f30-c10e-40b7-95de-a126d1bf5e8c)
 
 <h5>PASSIVA</h5>
 
